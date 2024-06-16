@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# production
+
+# misc
+.DS_Store
+AI/saved_models/best_model.pth
+__pycache__/
